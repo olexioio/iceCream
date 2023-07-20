@@ -5,4 +5,4 @@ _a franchise site for a small business, namely an ice cream shop  The site has i
 - dynamic buttons:woman_dancing::man_dancing:
 - adaptability for mobile devices:rocket:
 
-###if you want to look at the site, [click here](https://olexioio.github.io/iceCream/).
+## if you want to look at the site, [click here](https://olexioio.github.io/iceCream/).
